@@ -1,4 +1,6 @@
 # CKA-Study Guide
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/ba78fcbf-7e0e-4606-84a3-093904243e79.svg?orgId=288883884012)](https://app.soluble.cloud/repos/details/github.com/dasalebr/cka-studyguide?orgId=288883884012)  
 The following guide is based on the Certified Kubernetes Administrator Exam Curriculum 1.20 and consists of the following sections:
 
 ### [Revision Topics](https://github.com/David-VTUK/CKA-StudyGuide/tree/master/RevisionTopics)
